@@ -1,0 +1,7 @@
+# For training
+scikit-learn
+joblib
+pandas
+
+# For serving
+flask
